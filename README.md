@@ -1,5 +1,7 @@
 # terminal-bash
 
+Thema Gnome Terminal: https://draculatheme.com/gnome-terminal
+
 Install: install.sh
 
 https://ohmyposh.dev/
