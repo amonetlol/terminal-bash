@@ -3,7 +3,9 @@
 Install: install.sh
 
 https://ohmyposh.dev/
+
 Nerdfonts: oh-my-posh font install cascadiacode
+
 Theme: dracula
 
 bash config:
