@@ -9,6 +9,7 @@ Nerdfonts: oh-my-posh font install cascadiacode
 Theme: dracula
 
 bash config:
+
 export PATH=$PATH:/home/$USER/.local/bin
 
 Theme="dracula"
