@@ -1,5 +1,9 @@
 # terminal-bash
 
+**Ubuntu packages:** build-essential libtree-sitter-dev fuse libfuse2 ripgrep python3-pynvim xclip luarocks dconfig-cli curl git nodejs nmp
+
+sudo npm install -g tree-sitter-cli
+
 **Debloat Ubuntu:** https://github.com/polkaulfield/ubuntu-debullshit
 
 **Nvim AppImage:** https://github.com/neovim/neovim-releases
