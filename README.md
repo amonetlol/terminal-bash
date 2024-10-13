@@ -10,6 +10,13 @@ sudo npm install -g tree-sitter-cli
 
 **Fetch:** https://github.com/ThatOneCalculator/NerdFetch
 
+https://github.com/Gogh-Co/Gogh
+
+https://gogh-co.github.io/Gogh/
+
+bash -c  "$(wget -qO- https://git.io/vQgMr)" 
+
+
 **Thema Gnome Terminal:** https://draculatheme.com/gnome-terminal
 
 **Install:** install.sh
