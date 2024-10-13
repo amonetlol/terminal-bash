@@ -1,6 +1,6 @@
 # terminal-bash
 
-**Ubuntu packages:** build-essential libtree-sitter-dev fuse libfuse2 ripgrep python3-pynvim xclip luarocks dconfig-cli curl git nodejs nmp
+**Ubuntu packages:** build-essential libtree-sitter-dev fuse libfuse2 ripgrep python3-pynvim xclip luarocks dconfig-cli curl git nodejs npm
 
 sudo npm install -g tree-sitter-cli
 
