@@ -10,5 +10,7 @@ Theme: dracula
 
 bash config:
 export PATH=$PATH:/home/$USER/.local/bin
+
 Theme="dracula"
+
 eval "$(oh-my-posh init bash --config ~/.config/posh-theme/themes/$Theme.omp.json)"
