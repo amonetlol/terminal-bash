@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# Verifica se o usuário passou o termo de busca
+if [ -z "$1" ]; then
+  echo "Uso: $0 TERMO"
+  exit 1
+fi
+
+# Salva o termo de busca
+TERMO="$1"
+
+# Executa o comando find a partir da raiz (/) ignorando os diretórios /nix e /run
+find / \
+  -path /nix -prune -o \
+  -path /run -prune -o \
+  -path /mnt -prune -o \
+  -iname "*$TERMO*" \
+  -print 2>/dev/null
