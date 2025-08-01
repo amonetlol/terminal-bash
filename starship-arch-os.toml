@@ -133,7 +133,7 @@ format = "[ $symbol $shlvl ]($style)"
 [sudo]
 disabled = false
 symbol = '󰌆 ' 
-style = "fg:color_red bg:color_yellow"
+style = "fg:color_red bg:color_blue2"
 format = '[ $symbol ]($style)'
 
 [git_branch]
